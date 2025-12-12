@@ -1,0 +1,7 @@
+{
+  "name": "FlashDeals UI",
+  "description": "A high-fidelity recreation of the FlashDeals product page featuring a smart blender, countdown timers, and AI-powered deal insights.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
